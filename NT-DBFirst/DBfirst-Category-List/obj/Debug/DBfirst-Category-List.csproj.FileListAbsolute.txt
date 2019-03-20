@@ -1,0 +1,15 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\bin\Debug\DBfirst-Category-List.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\bin\Debug\DBfirst-Category-List.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\bin\Debug\DBfirst-Category-List.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\bin\Debug\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\bin\Debug\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\obj\Debug\DBfirst-Category-List.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\obj\Debug\DBfirst_Category_List.Form1.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\obj\Debug\DBfirst_Category_List.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\obj\Debug\DBfirst-Category-List.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\obj\Debug\DBfirst-Category-List.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\obj\Debug\DBfirst-Category-List.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\obj\Debug\DBfirst-Category-List.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst\DBfirst-Category-List\obj\Debug\DBfirst-Category-List.pdb
