@@ -1,0 +1,16 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\bin\Debug\DBFirst-FaturaIslemleri.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\bin\Debug\DBFirst-FaturaIslemleri.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\bin\Debug\DBFirst-FaturaIslemleri.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\bin\Debug\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\bin\Debug\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst-FaturaIslemleri.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst_FaturaIslemleri.Form1.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst_FaturaIslemleri.Form2.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst_FaturaIslemleri.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst-FaturaIslemleri.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst-FaturaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst-FaturaIslemleri.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst-FaturaIslemleri.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\WissenEntity\NT-DBFirst2\DBFirst-FaturaIslemleri\obj\Debug\DBFirst-FaturaIslemleri.pdb
